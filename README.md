@@ -22,5 +22,5 @@ On the bootcamp I am learning a spectrum of technologies like Java, Spring, Java
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cbattenplowright&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cbattenplowright&theme=vue-dark&hide_border=false)
-
+[![](https://visitcount.itsvg.in/api?id=cbattenplowright&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
