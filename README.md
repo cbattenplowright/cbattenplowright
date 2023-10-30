@@ -1,5 +1,5 @@
 # 💫Hi I'm Callum
-I am currently training on a 13-week intensive full-stack software engineering bootcamp to transition into a career in technology after graduating from a Music degree. I wish to leverage my skills from my bootcamp and degree to create a positive difference to society with technology.
+I have just completed a 13-week intensive full-stack software engineering bootcamp to transition into a career in technology after graduating from a Music degree. I wish to leverage my skills from my bootcamp and degree to create a positive difference to society with technology.
 
 On the bootcamp I am learning a spectrum of technologies like Java, Spring, JavaScript, React, HTML, CSS, PostgreSQL along with software engineering best practices such as TDD and Agile methodologies. 
 
