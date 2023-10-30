@@ -9,7 +9,7 @@ On the bootcamp I am learning a spectrum of technologies like Java, Spring, Java
 
 🔭 I’m currently working on building a Meal Planner app alongside the bootcamp to consolidate my learning
 
-🌱 I’m currently learning Spring Boot and React to build full stack applications consolidating learning whilst on a 13-week intensive bootcamp
+🌱 I’m currently learning Spring Boot and React to build full stack applications consolidating learning whilst searching for junior developer roles after my bootcamp
 
 💬 Ask me about my journey and transition to tech 
 
